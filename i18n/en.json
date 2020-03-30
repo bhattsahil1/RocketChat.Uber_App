@@ -1,0 +1,4 @@
+{
+    "cmd_description": "Request an Uber ride",
+    "params_example": "Enter your journey's starting point and destination"
+}
